@@ -6,6 +6,7 @@
     position: relative;
     background-color: #F2F2F2;
     z-index: 0;
+    padding-top: 80px;
     background-image: url(../../images/feinman.png);
     background-position-x: 0px;
     background-position-y: 153px;

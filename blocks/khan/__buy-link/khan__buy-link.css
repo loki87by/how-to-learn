@@ -2,8 +2,10 @@
     line-height: 42px;
     font-size: 30px;
     font-style: normal;
-    color: #2F80ED;
     text-decoration: none;
+    color: #2F80ED;
+    -ms-flex-item-align: start;
+    align-self: flex-start;
 }
 
 .khan__buy-link:hover {
