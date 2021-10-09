@@ -12,3 +12,5 @@
 ### [Первая часть брифа тут,](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf)
 
 ### [а вторая здесь.](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf)
+
+### [Deploy](https://loki87by.github.io/how-to-learn/)
