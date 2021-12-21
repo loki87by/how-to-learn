@@ -23,4 +23,7 @@ display: flex;
 чтоб эти элементы не выходили за границы родительских блоков. 
 (Первая часть брифа тут:)[https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf]
 (Вторая часть брифа:)[https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf]
-элементы яндекса и ссылки убраны, как рекламные
+
+### [Deploy](https://loki87by.github.io/how-to-learn/)
+
+#### P.S. элементы яндекса и ссылки убраны, как рекламные
